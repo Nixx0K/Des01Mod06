@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "DesafioRestApiPhotos"
+rootProject.name = "Weather Latam"
 include ':app'

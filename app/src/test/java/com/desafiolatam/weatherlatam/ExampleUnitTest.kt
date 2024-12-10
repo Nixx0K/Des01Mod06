@@ -1,4 +1,4 @@
-package com.desafiolatam.desafiorestapiphotos
+package com.desafiolatam.weatherlatam
 
 import org.junit.Test
 
